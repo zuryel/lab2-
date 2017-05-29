@@ -1,0 +1,4 @@
+Perez.MainActivity, Perez;md5eee953b54d72e6ed6e9d583ca58eee7c.MainActivity
+Perez.MainActivity, Perez, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5eee953b54d72e6ed6e9d583ca58eee7c.MainActivity
+Perez.MainActivity;md5eee953b54d72e6ed6e9d583ca58eee7c.MainActivity
+perez.MainActivity;md5eee953b54d72e6ed6e9d583ca58eee7c.MainActivity
